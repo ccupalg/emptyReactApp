@@ -331,10 +331,10 @@ const styles = {
   },
   textStyle: {
     color: 'gray',
-    fontFamily: 'ProximaNova-Regular',
+    // fontFamily: 'ProximaNova-Regular',
   },
   activeTextStyle: {
     color: 'black',
-    fontFamily: 'ProximaNova-Bold',
+    // fontFamily: 'ProximaNova-Bold',
   },
 }

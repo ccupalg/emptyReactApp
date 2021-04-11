@@ -7,7 +7,7 @@ import Colors from '../Theme/Colors'
 import Assets from '../Assets'
 
 const defaultFont = {
-	fontFamily: 'ProximaNova-Regular',
+	// fontFamily: 'ProximaNova-Regular',
 	color: '#464646',
 }
 
@@ -21,7 +21,7 @@ export const TmText = (props) => {
 const style = {
 	header: {
 		fontSize: rem(22),
-		fontFamily: 'ProximaNova-Bold'
+		// fontFamily: 'ProximaNova-Bold'
 	},
 	centered: {
 		textAlign: 'center',
@@ -35,7 +35,7 @@ const style = {
 	},
 	classHeader: {
 		fontSize: rem(18),
-		fontFamily: 'ProximaNova-Bold',
+		// fontFamily: 'ProximaNova-Bold',
 	},
 	newMsgBadge: {
 		color: Assets.Colors.white,
